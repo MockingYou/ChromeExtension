@@ -1,0 +1,49 @@
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    min-width: 430px;
+    background-color: #020a1f;
+}
+
+input {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #3242d1;
+    margin-bottom: 6px;
+    border-radius: 10px;
+}
+
+button {
+    background: #3242d1;
+    color: #020a1f;
+    padding: 8px 16px;
+    border: 2px solid #3242d1;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 5px 5px;
+}
+
+#delete-btn {
+    background: #020a1f;
+    color: #3242d1;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #3242d1;
+}
+
+
