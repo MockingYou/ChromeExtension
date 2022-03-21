@@ -2,5 +2,5 @@
 
 ##Run
 ```
-Go to Chrome -> Extensions -> Manage Extensions -> Load Upacked -> Select folder "ChromeExtension"
+Go to Chrome -> Extensions -> Manage Extensions -> Enable Developer mode -> Load Upacked -> Select folder "ChromeExtension"
 ```
